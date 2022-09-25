@@ -22,7 +22,7 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 *❉ Irham:*
 *❉ Adyran:*
 *▸ - - - —「 Thanks For Support system 」— - - - ◂*
-*❉ Novi Sutena 🤍:*
+*❉ Noviana Suntana 🤍:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
