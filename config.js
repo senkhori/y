@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/c/ManzBotEdtz12' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895385157376' //dana
-global.povo = '0895385157376' //ovo
-global.pgopay = '0895385157376' //gopay
-global.plinkaja = '0895385157376' //link aja
-global.ppulsa = '0895385157376' //telkomsel
-global.ppulsa2 = '0895385157376' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/manzedtz'
+global.pdana = '-' //dana
+global.povo = '-' //ovo
+global.pgopay = '-' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '081386945391' //telkomsel
+global.ppulsa2 = '-' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895385157376'
-global.nomorown = '6289522724388'
-global.namebot = 'IMAN-BOT'
-global.nameown = 'IMAN-OFFC'
+global.nomorbot = '79303907397'
+global.nomorown = '6281386945391'
+global.namebot = 'NIZARBOTZ-Md'
+global.nameown = 'Nizar Rahman'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,9 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289522724388', 'IMAN-OFFC', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
+  ['6281386945391', 'Nizar', true],
+  ['6283120240903', 'Adryan', true],
+  ['6281223618476', 'Irham', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 IMAN-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘IMAN-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ IMAN-BOT-V1 '
+global.wm = '                「 NAI-Md-V1 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NAI-Md-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NAI-Md-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By IMAN-OFFC`
-global.author = '                「 IMAN-OFFC-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Nizar,Adryan,Irham`
+global.author = '                「 Nizar Rahman  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'IMAN-BOT'
-global.stickauth = `By IMAN-DEV`
+global.stickpack = 'NAI-BOT'
+global.stickauth = `By NAI-DEVELOVER`
 
 global.multiplier = 38 // The higher, The harder levelup
 
