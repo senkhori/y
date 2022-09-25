@@ -30,7 +30,7 @@ ${htjava} *🧮 Kelas* : 11 Smk
 ${htjava} *🧩 Hobby* : Renang,basket
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Cianjur, Jawa Barat
-${htjava} *❤️ Ayang* : Novi 
+${htjava} *❤️ Ayang* : Novi Suntena 
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
