@@ -13,56 +13,16 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
-*❉ Adiwajshing:*
-https://github.com/adiwajshing
-*❉ Nurutomo:*
-https://github.com/Nurutomo
-*❉ Istikmal:* 
-https://github.com/BochilGaming
-*❉ Ariffb:*
-https://github.com/Ariffb25
-*❉ Ilman:*
-https://github.com/ilmanhdyt
-*❉ Amirul:*
-https://github.com/amiruldev20
-*❉ Rasel:*
-https://github.com/raselcomel
-*❉ Fatur:*
-https://github.com/Ftwrr
-*❉ Rominaru:*
-https://github.com/Rominaru
-*❉ Kannachann:*
-https://github.com/Kannachann
-*❉ The.sad.boy01:*
-https://github.com/kangsad01
-*❉ Ameliascrf:*
-https://github.com/Ameliascrf
-*❉ Fokus ID:*
-https://github.com/Fokusdotid
-*❉ Johannes:*
-https://github.com/Johannes2803
-*❉ BrunoSobrino:*
-https://github.com/BrunoSobrino
-*❉ Krisna:*
-https://github.com/NevtBotz
-*❉ LitRHap:*
-https://github.com/LitRHap
-*❉ Rlxfly:*
-https://github.com/Rlxfly
-*❉ Aine:*
-https://github.com/Aiinne
-*❉ Papah-Chan:*
-https://github.com/FahriAdison
-*▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ ImYanXiao:*
-https://github.com/ImYanXiao
-*▸ - - - —「 Thanks For Suhu 」— - - - ◂*
-*❉ WH MODS DEV:*
-*❉ Kannachan:*
-*❉ Papah-Chan:*
-*❉ Johannes:*
-*❉ Krisna:*
-*❉ Rlxfly:*
+❉ Allah SWT:*
+❉ My Team:*
+❉ Ayang Gw:*
+
+*▸ - - - —「 Thanks For Team 」— - - - ◂*
+*❉ Nizar Rahman:*
+*❉ Irham:*
+*❉ Adyran:*
+*▸ - - - —「 Thanks For Support system 」— - - - ◂*
+❉ Novi 🤍:*
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
