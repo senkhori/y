@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/nizarrrahman.f&'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/LvJgI6TTVn0B2r8cpUBSQL' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https:/Instagram.com/nizarrrahman.f_' // my youtube channel
+global.snh = 'https:/Instagram.com/yuki_sen23' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '-' //dana
