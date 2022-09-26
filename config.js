@@ -47,7 +47,7 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '79303907397'
-global.nomorown = '6281386945391'
+global.nomorown = '6281386945391','6283120240903','6281223618476'
 global.namebot = 'NIZARBOTZ-Md'
 global.nameown = 'Nizar Rahman'
 
