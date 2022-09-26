@@ -2,7 +2,8 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `*https://instagram.com/nizarrrahmn.f_*
+let str = `*https://instagram.com/yuki_sen23*
+
 
 
 Mau Yang No Error Script Bot nya, Gas Cek bio ig :
