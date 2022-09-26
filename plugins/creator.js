@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Nizar Rahman 
+${htjava} *💌 Nama* : Khoiri 
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boy
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 02-11-2005🥶
+${htjava} *⏰ Tanggal lahir* : 24-01-2005🥶
 ${htjava} *🎨 Umur* : 17
 ${htjava} *🧮 Kelas* : 11 Smk
-${htjava} *🧩 Hobby* : Renang,basket
+${htjava} *🧩 Hobby* : Nonton bokep
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Cianjur, Jawa Barat
-${htjava} *❤️ Ayang* : Novi Suntena 
+${htjava} *🗺️ Tinggal* : Indo, Jawa Barat
+${htjava} *❤️ Waifu* : Yuki Asuna 
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
