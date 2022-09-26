@@ -46,10 +46,10 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79303907397'
+global.nomorbot = '6281399131420'
 global.nomorown = '6281386945391','6283120240903','6281223618476'
-global.namebot = 'NIZARBOTZ-Md'
-global.nameown = 'Nizar Rahman'
+global.namebot = 'NAI-Dev-Md'
+global.nameown = 'Nizar Rahman','Adryan','Irham'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
